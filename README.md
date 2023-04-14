@@ -34,7 +34,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://cmachadodev.github.io/qr-code-component/)
+- [Live Site URL:](https://cmachadodev.github.io/qr-code-component/)
 
 ## My process
 
